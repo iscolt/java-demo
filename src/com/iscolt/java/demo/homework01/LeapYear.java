@@ -14,7 +14,7 @@ import java.util.Scanner;
  * @see: PACKAGE_NAME
  * @version: v1.0.0
  */
-public class LeapYear11 {
+public class LeapYear {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int year = scanner.nextInt();

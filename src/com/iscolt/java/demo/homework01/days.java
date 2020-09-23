@@ -13,7 +13,7 @@ import java.util.Scanner;
  * @see: PACKAGE_NAME
  * @version: v1.0.0
  */
-public class days13 {
+public class days {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("输入年份");

@@ -14,7 +14,7 @@ import java.util.Scanner;
  * @see: PACKAGE_NAME
  * @version: v1.0.0
  */
-public class Overtime12 {
+public class Overtime {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("输入您的上班时间");
