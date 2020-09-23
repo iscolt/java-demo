@@ -1,3 +1,5 @@
+package com.iscolt.java.demo.homework01;
+
 import java.util.Scanner;
 
 /**
